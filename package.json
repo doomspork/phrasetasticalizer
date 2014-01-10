@@ -1,0 +1,12 @@
+{
+    "name":         "phrasetasticalizer",
+    "description":  "The coolest service evar!!1!",
+    "version":      "0.1.0",
+    "engines":      {
+        "node": "0.10.x"
+    },
+    "dependencies": {
+        "percolator":  ">= 1.0.16",
+        "mongoose":    ">= 3.8.4"
+    }
+}

@@ -6,7 +6,8 @@
         "node": "0.10.x"
     },
     "dependencies": {
-        "percolator":  ">= 1.0.16",
-        "mongoose":    ">= 3.8.4"
+        "express":     "3.x",
+        "mongoose":    "3.8.x",
+        "underscore":  "1.5.x"
     }
 }
